@@ -34,7 +34,7 @@
 - DB_PASS='YOUR_DB_PASS'
 - SECRET_KEY='YOUR_JWT_TOKEN_SECRET'
 
-6. Run 'npm run dev' to run the project locally.
+6. Run 'nodemon index.js' to run the server.
 
 
 <hr/>
