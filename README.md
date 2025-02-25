@@ -32,7 +32,7 @@
 5. Environment setup:Create a '.env' file and put your firebase environment variable there. Save the following variable:
 - DB_USER='YOUR_DB_USER'
 - DB_PASS='YOUR_DB_PASS'
-- ACCESS_TOKEN_SECRET='YOUR_ACCESS_TOKEN_SECRET'
+- SECRET_KEY='YOUR_JWT_TOKEN_SECRET'
 
 6. Run 'npm run dev' to run the project locally.
 
